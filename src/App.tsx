@@ -33,7 +33,7 @@ import { FC, useMemo, useEffect } from "react";
               const userData = useMemo(() => ({
                 name: "Udaya Ram Sharma ",
                 email: "usharma4501@gmail.com",
-                phone: "(123)-456-7890",
+                phone: "+977-9749211580",
                 company: "company",
                 location: "Jhapa,Nepal",
                 about: "Hello, I'm Udaya Ram Sharma, a passionate student at IOST, Tribhuvan University, driven by data science and the exploration of time, space, and multiverses, ready to tackle new challenges and make incredible things happen.",
